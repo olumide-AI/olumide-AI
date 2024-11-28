@@ -24,4 +24,4 @@ Team work, Communication, tony, charlie
 
 ## Accomplishments
 
-MIT Emerging talent, NSBE President
+MIT Emerging talent, NSBE President, Dev Misiion
