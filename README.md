@@ -14,7 +14,7 @@ C++, HTML, CSS, JAVASCRIPT
 
 ## Soft Skills
 
-Team work, Communication, tony
+Team work, Communication, tony, charlie
 
 ## Projects
 
