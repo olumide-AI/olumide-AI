@@ -1,27 +1,27 @@
-# Welcome to my Github Profile
+# Welcome to my Github Profile &#x1F44B;
 
-## About me
+## &#x1F464; About me
 
-My name is Olumide Kolawole and i'm an aspiring software developer originally from
+My name is _Olumide Kolawole_ and i'm an aspiring software developer originally from
 Nigeria. I'm passionate about helping people and finding solutions to solve problems.
 I have a curious mindset and a drive for continuous growth. I'm always eager to
 learn new things and take on new challenges.
 
-## Hobbies
+## &#x1F9E9; Hobbies
 
 - I love to read the bible
 - Listen to gospel music
 - Playing sports
 - Hanging out with my family.
 
-## Skills
+## &#x1F9F0; Skills
 
 - Programming Language: C++, HTML, CSS, JavaScript
 - Frameworks: Bootstrap
 - Soft Skills: Team work, Communication,
 - Others: Git, Figma, Arduino
 
-## Technical Skills Proficiency
+## &#x1F6E0; Technical Skills Proficiency
 
 | Skill      | Proficiency  |
 | ---------- | ------------ |
@@ -30,7 +30,7 @@ learn new things and take on new challenges.
 | HTML       | Intermediate |
 | CSS        | Intermediate |
 
-## Projects
+## &#x1F680; Projects
 
 1. Furniture store website
    - I designed a custom made web app on glitch for my mom's furniture company
@@ -44,18 +44,21 @@ learn new things and take on new challenges.
      \*The project goal was to enhance my hardware programming skills and
      user centric design thinking.
 
-## Ongoing learning
+## &#x1F4A1; Ongoing learning
 
 - Learning python for backend development and data analytics
 - Building my understanding of code collaboration, utilizing tools like Git, Github,
   including CI/CD pipelines
 - Developing an interactive toy for my 8 month old using arduino and raspberry pi.
 
-## Accomplishments
+## &#x1F3C6; Accomplishments
 
-- MIT Emerging talent
-- NSBE President
+- **MIT** Emerging talent: Selected for the prestigious MIT ReACT program.
+- **NSBE** President: Led outreach initiatives that expanded membership and created
+  opportunities for underrepresented groups in STEM.
+- **Dev Mission** Graduate: Completed a pre-apprenticeship program in web development,
+  IT, and programming.
 
-## My Home
+## &#x1F1F3;&#x1F1EC; My Home
 
 ![Image Alt Text](https://images.unsplash.com/photo-1678652225243-8445e7535e36?q=80&w=1624&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
