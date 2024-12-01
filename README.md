@@ -40,13 +40,13 @@ learn new things and take on new challenges.
      More improvements to come.
 2. Interactive IOT toy
    - I designed a music selector using led light, buzzers and piezo
-   - I used tinkercard, c++ and arduino
-     \*The project goal was to enhance my hardware programming skills and
+   - I used tinkercard, C++ and arduino
+   - The project goal was to enhance my hardware programming skills and
      user centric design thinking.
 
 ## &#x1F4A1; Ongoing learning
 
-- Learning python for backend development and data analytics
+- Learning _Python_ for backend development and data analytics
 - Building my understanding of code collaboration, utilizing tools like Git, Github,
   including CI/CD pipelines
 - Developing an interactive toy for my 8 month old using arduino and raspberry pi.
