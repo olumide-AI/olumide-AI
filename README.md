@@ -12,7 +12,7 @@ learn new things and take on new challenges.
 - I love to read the bible
 - Listen to gospel music
 - Playing sports
-- Hanging out with my family.
+- Hanging out with my family
 
 ## &#x1F9F0; Skills
 
@@ -43,6 +43,11 @@ learn new things and take on new challenges.
    - I used tinkercard, C++ and arduino
    - The project goal was to enhance my hardware programming skills and
      user centric design thinking.
+3. Class directory project
+   - Contributed to building a [class directory](https://dm-fall-2024-cohort27.glitch.me)
+   - I used HTML, CSS, JavaScript, Airtable, Bootstrap and Figma
+   - The project goal was to provide a platform to share our story effectively, and
+   for people to connect with us.
 
 ## &#x1F4A1; Ongoing learning
 
@@ -57,7 +62,7 @@ learn new things and take on new challenges.
 - **NSBE** President: Led outreach initiatives that expanded membership and created
   opportunities for underrepresented groups in STEM.
 - **Dev Mission** Graduate: Completed a pre-apprenticeship program in web development,
-  IT, and programming.
+  IT, and IOT.
 
 ## &#x1F1F3;&#x1F1EC; My Home
 
