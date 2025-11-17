@@ -1,69 +1,175 @@
-# Welcome to my Github Profile &#x1F44B;
+# Welcome to my GitHub Profile 👋
 
-## &#x1F464; About me
+## 👤 About me
 
-My name is _Olumide Kolawole_ and i'm an aspiring software developer originally from
-Nigeria. I'm passionate about helping people and finding solutions to solve problems.
-I have a curious mindset and a drive for continuous growth. I'm always eager to
-learn new things and take on new challenges.
+My name is **Olumide Kolawole**. I’m an early-career software and security engineer originally from Nigeria, with a growing focus on:
 
-## &#x1F9E9; Hobbies
+- Backend development (Java, Spring Boot, SQL)
+- Cloud & DevOps (AWS, containers, CI/CD)
+- Information security and networking fundamentals
+- Web development (HTML, CSS, JavaScript)
 
-- I love to read the bible
-- Listen to gospel music
+I enjoy solving real-world problems with technology, learning in public, and building projects that make life easier for others.
+
+Current roles and programs:
+
+- Information Security Apprentice @ Apple (2025)
+- Application Development trainee @ Year Up United
+- Computer & Data Science student @ MIT Emerging Talent (ReACT)
+
+---
+
+## 🧠 What I’m interested in
+
+- Backend engineering with Java/Spring Boot
+- Secure software development and application security
+- Cloud-native architectures (Docker, Kubernetes, AWS EKS)
+- Data science and analytics with Python
+
+---
+
+## 🧩 Hobbies
+
+- Reading and studying the Bible
+- Listening to gospel music
 - Playing sports
-- Hanging out with my family
+- Spending time with my family
 
-## &#x1F9F0; Skills
+---
 
-- Programming Language: C++, HTML, CSS, JavaScript
-- Frameworks: Bootstrap
-- Soft Skills: Team work, Communication,
-- Others: Git, Figma, Arduino
+## 🧰 Skills
 
-## &#x1F6E0; Technical Skills Proficiency
+**Languages**
 
-| Skill      | Proficiency  |
-| ---------- | ------------ |
-| C++        | Beginner     |
-| JavaScript | Beginner     |
-| HTML       | Intermediate |
-| CSS        | Intermediate |
+- Java, Python, JavaScript, C++, HTML, CSS
 
-## &#x1F680; Projects
+**Frameworks & Libraries**
 
-1. Furniture store website
-   - I designed a custom made web app on glitch for my mom's furniture company
-     [furniture store](https://jk-furniture-v1.glitch.me)
-   - I used HTML, CSS, JavaScript, Bootstrap and Figma
-   - The project goal is to showcase product catalog,
-     More improvements to come.
-2. Interactive IOT toy
-   - I designed a music selector using led light, buzzers and piezo
-   - I used tinkercard, C++ and arduino
-   - The project goal was to enhance my hardware programming skills and
-     user centric design thinking.
-3. Class directory project
-   - Contributed to building a [class directory](https://dm-fall-2024-cohort27.glitch.me)
-   - I used HTML, CSS, JavaScript, Airtable, Bootstrap and Figma
-   - The project goal was to provide a platform to share our story effectively, and
-   for people to connect with us.
+- Spring Boot, Bootstrap
 
-## &#x1F4A1; Ongoing learning
+**Cloud, DevOps & Infrastructure**
 
-- Learning _Python_ for backend development and data analytics
-- Building my understanding of code collaboration, utilizing tools like Git, Github,
-  including CI/CD pipelines
-- Developing an interactive toy for my 8 month old using arduino and raspberry pi.
+- AWS (incl. EKS), Terraform, Kubernetes, Helm, Prometheus, Grafana
+- Git, GitHub, GitHub Actions (CI/CD)
+- Linux (Ubuntu, Kali), shell scripting basics
 
-## &#x1F3C6; Accomplishments
+**Security & Networking**
 
-- **MIT** Emerging talent: Selected for the prestigious MIT ReACT program.
-- **NSBE** President: Led outreach initiatives that expanded membership and created
-  opportunities for underrepresented groups in STEM.
-- **Dev Mission** Graduate: Completed a pre-apprenticeship program in web development,
-  IT, and IOT.
+- Ubuntu/Kali security lab (VMware, UTM, Raspberry Pi)
+- TCP/IP fundamentals, packet capture and analysis with `tcpdump` and Wireshark
+- Remote access and encryption validation in lab environments
 
-## &#x1F1F3;&#x1F1EC; My Home
+**Other Tools**
+
+- VS Code, Figma, Arduino, Airtable APIs
+
+**Soft Skills**
+
+- Cross-functional collaboration with engineers, testers, and PMs
+- Communication, documentation, and training
+- Incident response and process improvement
+
+---
+
+## 🛠 Technical Skills Proficiency
+
+| Skill        | Proficiency  |
+|-------------|--------------|
+| Java        | Intermediate |
+| Python      | Intermediate |
+| HTML / CSS  | Proficient   |
+| JavaScript  | Intermediate |
+| Linux       | Intermediate |
+| Git / GitHub| Intermediate |
+
+*(Rough self-assessment; always improving.)*
+
+---
+
+## 🚀 Projects
+
+### 1. EasyShop – E-commerce backend (Year Up capstone)
+- **Tech:** Java, Spring Boot, SQL, REST APIs, GitHub Actions, Agile/Kanban  
+- Built an e-commerce backend applying OOP, database design, unit testing, and CI/CD in a team environment.  
+- Repository: [EasyShop capstone](https://github.com/olumide-AI/capstone3-easyshop)
+
+---
+
+### 2. EasyShop Cloud – Microservices on AWS EKS
+- **Tech:** AWS EKS, Terraform, Kubernetes, Helm, Prometheus, Grafana, CI/CD  
+- Built a production-ready microservices e-commerce platform with:
+  - Multi-environment CI/CD pipelines
+  - Auto-scaling and monitoring
+  - Observability with Prometheus and Grafana
+
+---
+
+### 3. MIT Emerging Talent – Data science group project
+- **Tech:** Python and common data science tooling  
+- Collaborating on a data science capstone focused on cleaning data, exploring patterns, and building models to solve a real-world problem.  
+- Repository: [MIT ET6 CDSP Group 11](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-11-repo)
+
+---
+
+### 4. JK Furniture – Family furniture website
+- **Tech:** HTML, CSS, JavaScript, Airtable APIs  
+- Designed and built a custom web application for my family’s furniture company with:
+  - Organized product catalog
+  - Airtable-powered data storage and real-time updates  
+- Demo: [JK Furniture](https://devmission-rpa.github.io/jk-furniture/)
+
+---
+
+### 5. Class directory project
+- **Tech:** HTML, CSS, JavaScript, Airtable, Bootstrap, Figma  
+- Contributed to a class directory site that helps showcase student stories and makes it easier for people to connect.  
+- Demo: [Class directory](https://dm-fall-2024-cohort27.glitch.me)
+
+---
+
+### 6. Interactive IoT music box (Arduino)
+- **Tech:** C++, Arduino, Tinkercad  
+- Built a music selector using LEDs, buzzers, and a piezo element to practice hardware programming and user-centric design.  
+- Demo: [Music box on Tinkercad](https://www.tinkercad.com/things/dEnEkDoPXvM-music-box)
+
+---
+
+## 📚 Ongoing learning
+
+- Deepening backend engineering skills with **Java** and **Spring Boot** (Year Up)
+- Building a stronger foundation in **Python**, data analysis, and machine learning (MIT Emerging Talent)
+- Expanding my **Linux**, networking, and security lab skills (Kali, tcpdump, Wireshark, Raspberry Pi)
+- Practicing cloud and DevOps with **AWS**, containers, and CI/CD pipelines
+
+---
+
+## 🏅 Accomplishments
+
+- **MIT Emerging Talent (ReACT) – Computer & Data Science track**  
+  Selected from thousands of applicants; completing MITx coursework in Python, data science, and AI with a capstone project.
+
+- **Year Up United – Application Development**  
+  Full-time, year-long program focused on Java, backend development, and professional skills.
+
+- **Dev Mission – Pre-Apprenticeship Graduate**  
+  Completed training in web development, IT, and IoT; built multiple web apps including a production-like furniture site.
+
+- **NSBE President (Former)**  
+  Led outreach initiatives that expanded membership and created opportunities for underrepresented groups in STEM.
+
+- **Certifications**  
+  - AWS Certified Cloud Practitioner  
+  - Google IT Support: Technical Support Fundamentals  
+  - Professional Scrum Master (PSM I)
+
+---
+
+## 🌍 My Home
 
 ![Image Alt Text](https://images.unsplash.com/photo-1678652225243-8445e7535e36?q=80&w=1624&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+---
+
+## 🔗 Connect with me
+
+- Port
